@@ -4,16 +4,21 @@ using UnityEngine;
 [RequireComponent(typeof(CircleCollider2D))]
 public class Npc : MonoBehaviour
 {
-    [Header("Dialogue name \nName of the Npc you are trying to access:\n")]
+    [Header("Dialogue name \nName of the Npc you are trying to access:\n\n")]
     //Case sensitive, must match knot name in ink file to work
     [SerializeField] private string dialogueKnotName;
 
     private bool PlayerIsNear = false;
+    [SerializeField] private GameObject IconSprite;
 
 
     private void OnEnable()
     {
         EventsManager.Instance.inputEvents.onSubmitPressed += SubmitPressed;
+    }
+    private void Awake()
+    {
+        IconSprite.SetActive(false);
     }
 
     private void OnDisable()
@@ -41,6 +46,7 @@ public class Npc : MonoBehaviour
         if (otherCollider.CompareTag("Player"))
         {
             PlayerIsNear = true;
+            IconSprite.SetActive(true);
         }
     }
 
@@ -49,8 +55,8 @@ public class Npc : MonoBehaviour
         if (otherCollider.CompareTag("Player"))
         {
             PlayerIsNear = false;
+            IconSprite.SetActive(false);
         }
     }
     
 }
-
