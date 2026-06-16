@@ -1626,7 +1626,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8379041674085256647, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: dialogueKnotName
-      value: Soldier
+      value: Councelor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

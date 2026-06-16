@@ -53,4 +53,15 @@ public class DialogueEvents
             onUpdateChoiceIndex(choiceIndex);
         }
     }
+
+
+    public event Action<string, Ink.Runtime.Object> onUpdateInkDialogueVariable;
+
+    public void UpdateInkDialogueVariable(string name, Ink.Runtime.Object value)
+    {
+        if (onUpdateInkDialogueVariable != null)
+        {
+            onUpdateInkDialogueVariable(name, value);
+        }
+    }
 }

@@ -1,5 +1,6 @@
 using Ink.Runtime;
 using UnityEngine;
+using UnityEngine.InputSystem.LowLevel;
 public class DialogueManager : MonoBehaviour
 {
     //handles everythng related to dialogue, starting it, ending it, and progressing it.
@@ -8,11 +9,21 @@ public class DialogueManager : MonoBehaviour
     private Story story;
     private bool dialoguePlaying = false;
     private int currentChoiceIndex = -1;
+    private InkExternalFunctions inkExternalFunctions;
+    private InkDialogueVeriables inkDialogueVariables;
 
 
     private void Awake()
     {
         story = new Story(inkJson.text);
+        inkExternalFunctions = new InkExternalFunctions();
+        inkExternalFunctions.Bind(story);
+        inkDialogueVariables = new InkDialogueVeriables(story);
+    }
+
+    private void OnDestroy()
+    {
+        inkExternalFunctions.Unbind(story);
     }
 
 
@@ -21,6 +32,7 @@ public class DialogueManager : MonoBehaviour
         EventsManager.Instance.inputEvents.onSubmitPressed += SubmitPressed;
         EventsManager.Instance.dialogueEvents.onEnterDialogue += EnterDialogue;
         EventsManager.Instance.dialogueEvents.onUpdateChoiceIndex += UpdateChoiceIndex;
+        EventsManager.Instance.dialogueEvents.onUpdateInkDialogueVariable += UpdateInkDialogueVariable;
     }
 
     private void OnDisable()
@@ -28,6 +40,12 @@ public class DialogueManager : MonoBehaviour
         EventsManager.Instance.inputEvents.onSubmitPressed -= SubmitPressed;
         EventsManager.Instance.dialogueEvents.onEnterDialogue -= EnterDialogue;
         EventsManager.Instance.dialogueEvents.onUpdateChoiceIndex -= UpdateChoiceIndex;
+        EventsManager.Instance.dialogueEvents.onUpdateInkDialogueVariable -= UpdateInkDialogueVariable;
+    }
+
+    private void UpdateInkDialogueVariable(string name, Ink.Runtime.Object value)
+    {
+        inkDialogueVariables.UpdateVariableState(name, value);
     }
 
 
@@ -70,6 +88,9 @@ public class DialogueManager : MonoBehaviour
         {
             story.ChoosePathString(knotName);
         }
+
+        //start listening for variables
+        inkDialogueVariables.SyncVariablesAndStartListening(story);
 
         //start the story
         ContinueOrExitStory();
@@ -121,6 +142,9 @@ public class DialogueManager : MonoBehaviour
         EventsManager.Instance.inputEvents.ChangeInputEventContext(InputEventContext.DEFAULT);
         //inform other parts of code that dialogue finished
         EventsManager.Instance.dialogueEvents.DialogueFinished();
+
+        //stop listening for dialogue variables
+        inkDialogueVariables.StopListening(story);
 
         story.ResetState();
     }
