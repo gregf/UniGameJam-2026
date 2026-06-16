@@ -37,6 +37,7 @@ public class Npc : MonoBehaviour
         if (!dialogueKnotName.Equals(""))
         {
             EventsManager.Instance.dialogueEvents.EnterDialogue(dialogueKnotName);
+            IconSprite.SetActive(false);
         }
     }
     
