@@ -276,7 +276,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.14804602, y: 0.49274182}
+  m_Offset: {x: 0.14804602, y: 0.34449458}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -286,7 +286,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.2262344, y: 0.80296946}
+  m_Size: {x: 2.2262344, y: 1.0994639}
   m_EdgeRadius: 0
 --- !u!1 &39761023
 GameObject:
@@ -1294,7 +1294,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.20702311, y: -0.09706047}
+  m_Offset: {x: 0.20702311, y: -0.21707429}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1304,7 +1304,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.46874887, y: 0.68507206}
+  m_Size: {x: 0.46874887, y: 0.8506701}
   m_EdgeRadius: 0
 --- !u!1 &145735806
 GameObject:
@@ -1632,7 +1632,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.14804602, y: 0.46358013}
+  m_Offset: {x: 0.14804602, y: 0.33281612}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1642,7 +1642,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.2262344, y: 0.86129284}
+  m_Size: {x: 2.2262344, y: 1.1228209}
   m_EdgeRadius: 0
 --- !u!1 &215733609
 GameObject:
@@ -1788,7 +1788,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.14804602, y: 0.47288656}
+  m_Offset: {x: 0.14804602, y: 0.34251523}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1798,7 +1798,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.2262344, y: 0.84268}
+  m_Size: {x: 2.2262344, y: 1.1034226}
   m_EdgeRadius: 0
 --- !u!1 &227833130
 GameObject:
@@ -8179,7 +8179,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.19099116, y: 0.35717702}
+  m_Offset: {x: 0.19099116, y: 0.50513935}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -8189,7 +8189,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 6.177218, y: 1.0569215}
+  m_Size: {x: 6.177218, y: 1.2401123}
   m_EdgeRadius: 0
 --- !u!1 &1010723643
 GameObject:
@@ -8223,6 +8223,7 @@ Transform:
   - {fileID: 63647746}
   - {fileID: 1547869322}
   - {fileID: 2026986198}
+  - {fileID: 1825867837}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1040166969
@@ -9086,7 +9087,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.14603731, y: -0.49453706}
+  m_Offset: {x: 0.14603731, y: -0.3846134}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -9096,7 +9097,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5980424, y: 1.7089115}
+  m_Size: {x: 0.5980424, y: 1.3880785}
   m_EdgeRadius: 0
 --- !u!1 &1124223204
 GameObject:
@@ -9189,6 +9190,7 @@ EdgeCollider2D:
   - {x: -11.159766, y: -7.228511}
   - {x: -10.359605, y: -8.330918}
   - {x: -9.428839, y: -9.390503}
+  - {x: -8.423089, y: -10.265523}
   - {x: -7.50993, y: -10.955625}
   - {x: -6.5034513, y: -11.5644245}
   - {x: -5.190522, y: -12.232491}
@@ -9196,6 +9198,7 @@ EdgeCollider2D:
   - {x: -2.495329, y: -13.052347}
   - {x: -1.270616, y: -13.208797}
   - {x: 0, y: -13.3}
+  - {x: 1.404994, y: -13.221387}
   - {x: 2.633001, y: -13.027209}
   - {x: 4.6686597, y: -12.454987}
   - {x: 7.1346817, y: -11.236413}
@@ -9380,7 +9383,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.112440825, y: 0.35717702}
+  m_Offset: {x: 0.112440825, y: 0.4593413}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -9390,7 +9393,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 6.1846986, y: 1.0569215}
+  m_Size: {x: 6.1846986, y: 1.26125}
   m_EdgeRadius: 0
 --- !u!1 &1153851000
 GameObject:
@@ -11147,7 +11150,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.21937084, y: -0.66080266}
+  m_Offset: {x: 0.21937084, y: -0.52170736}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -11157,7 +11160,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.49344432, y: 1.7176877}
+  m_Size: {x: 0.49344432, y: 1.4394971}
   m_EdgeRadius: 0
 --- !u!1 &1436798075
 GameObject:
@@ -11303,7 +11306,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.16427957, y: -0.50687534}
+  m_Offset: {x: 0.21237826, y: -0.5187769}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -11313,7 +11316,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.38326177, y: 1.8669773}
+  m_Size: {x: 0.3478853, y: 1.8431742}
   m_EdgeRadius: 0
 --- !u!224 &1447709715 stripped
 RectTransform:
@@ -11475,7 +11478,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.21735251, y: 0.060429394}
+  m_Offset: {x: 0.17606282, y: 0.065017104}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -11485,7 +11488,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.1592672, y: 1.6922327}
+  m_Size: {x: 2.2418466, y: 2.0317256}
   m_EdgeRadius: 0
 --- !u!1 &1491986402
 GameObject:
@@ -13743,6 +13746,10 @@ PrefabInstance:
       propertyPath: dialogueKnotName
       value: Councelor
       objectReference: {fileID: 0}
+    - target: {fileID: 8808578648275810514, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_Radius
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14016,7 +14023,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.15674159, y: -0.53200173}
+  m_Offset: {x: 0.15674159, y: -0.57140976}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -14026,8 +14033,53 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6194509, y: 2.4046845}
+  m_Size: {x: 0.6194509, y: 2.2255578}
   m_EdgeRadius: 0
+--- !u!1 &1825867836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1825867837}
+  - component: {fileID: 1825867838}
+  m_Layer: 0
+  m_Name: QuestManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1825867837
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825867836}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1010723644}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1825867838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825867836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9baa0e3a6a3287d47a607d683f8ec62c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::QuestManager
+  loadQuestState: 1
 --- !u!1 &1845738210
 GameObject:
   m_ObjectHideFlags: 0
@@ -15872,7 +15924,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.16017124, y: 0.12041899}
+  m_Offset: {x: 0.19322495, y: 0.009908363}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -15882,7 +15934,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.47999102, y: 0.6459221}
+  m_Size: {x: 0.4698421, y: 0.69993377}
   m_EdgeRadius: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

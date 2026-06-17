@@ -32,6 +32,7 @@ public class DialogueManager : MonoBehaviour
         EventsManager.Instance.dialogueEvents.onEnterDialogue += EnterDialogue;
         EventsManager.Instance.dialogueEvents.onUpdateChoiceIndex += UpdateChoiceIndex;
         EventsManager.Instance.dialogueEvents.onUpdateInkDialogueVariable += UpdateInkDialogueVariable;
+        EventsManager.Instance.questEvents.onQuestStateChange += QuestStateChange;
     }
 
     private void OnDisable()
@@ -40,6 +41,15 @@ public class DialogueManager : MonoBehaviour
         EventsManager.Instance.dialogueEvents.onEnterDialogue -= EnterDialogue;
         EventsManager.Instance.dialogueEvents.onUpdateChoiceIndex -= UpdateChoiceIndex;
         EventsManager.Instance.dialogueEvents.onUpdateInkDialogueVariable -= UpdateInkDialogueVariable;
+        EventsManager.Instance.questEvents.onQuestStateChange -= QuestStateChange;
+    }
+
+    private void QuestStateChange(Quest quest)
+    {
+        EventsManager.Instance.dialogueEvents.UpdateInkDialogueVariable(
+            quest.info.id + "State",
+            new StringValue(quest.state.ToString())
+        );
     }
     private void UpdateInkDialogueVariable(string name, Ink.Runtime.Object value)
     {
