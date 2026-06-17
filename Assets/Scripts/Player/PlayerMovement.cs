@@ -4,6 +4,7 @@ public class PlayerMovementController : MonoBehaviour
 {
     [Header("Config")]
     [SerializeField] private float moveSpeed = 5f;
+    public Animator animator;
 
     private Rigidbody2D rb;
     private Vector2 velocity = Vector2.zero;
@@ -53,5 +54,9 @@ public class PlayerMovementController : MonoBehaviour
     private void FixedUpdate() 
     {
         rb.linearVelocity = velocity;
+
+        animator.SetFloat("Horizontal", velocity.x);
+        animator.SetFloat("Vertical", velocity.y);
+        animator.SetFloat("Speed", velocity.sqrMagnitude);
     }
 }
