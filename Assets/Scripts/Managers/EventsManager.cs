@@ -1,13 +1,14 @@
+using System;
 using UnityEngine;
 
 public class EventsManager : MonoBehaviour
 {
-    //Initializes all events and holds references to them for easy access
     public static EventsManager Instance { get; private set; }
 
     public InputEvents inputEvents;
     public PlayerEvents playerEvents;
     public DialogueEvents dialogueEvents;
+    public QuestEvents questEvents;
 
     private void Awake()
     {
@@ -21,5 +22,6 @@ public class EventsManager : MonoBehaviour
         inputEvents = new InputEvents();
         playerEvents = new PlayerEvents();
         dialogueEvents = new DialogueEvents();
+        questEvents = new QuestEvents();
     }
 }

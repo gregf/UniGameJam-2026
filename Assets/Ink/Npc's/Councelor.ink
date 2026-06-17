@@ -17,11 +17,13 @@ VAR CollectObjectsState = "NOT_ENOUGH_ITEMS"
 
 
 = Councelor0
-keep finding items
+Dat noo enough Ντραμλα
+Πανε find mo
 
 ->END
 
 = Councelor1
-enough items
+Dat ειναι αρκετα Ντραμλα
+Go make da bomcera
 
 ->END

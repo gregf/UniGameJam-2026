@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b7f400dd337e18241ac115b1ffe9dddb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 812199703045558810
+    second: pitcher2_0
+  - first:
+      213: -3261769639303254045
+    second: pitcher2_1
+  - first:
+      213: 7261050421994901197
+    second: pitcher2_2
+  - first:
+      213: -6023228344709024427
+    second: pitcher2_3
+  - first:
+      213: -2136451366621323852
+    second: pitcher2_4
+  - first:
+      213: 9095467173034342485
+    second: pitcher2_5
+  - first:
+      213: 4355460296469105660
+    second: pitcher2_6
+  - first:
+      213: -2989210098335667199
+    second: pitcher2_7
+  - first:
+      213: -4887633011186938601
+    second: pitcher2_8
+  - first:
+      213: -6343662435908226186
+    second: pitcher2_9
+  - first:
+      213: 7480339147624805066
+    second: pitcher2_10
+  - first:
+      213: 9052151803761569939
+    second: pitcher2_11
+  - first:
+      213: -196723286791841050
+    second: pitcher2_12
+  - first:
+      213: 4971235151662525828
+    second: pitcher2_13
+  - first:
+      213: 8798879573332223809
+    second: pitcher2_14
+  - first:
+      213: 6929610963429942058
+    second: pitcher2_15
+  - first:
+      213: 1413805706889083578
+    second: pitcher2_16
+  - first:
+      213: -5923853038151659116
+    second: pitcher2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pitcher2_0
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 941
+        width: 1209
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1255b2a353854b00800000000000000
+      internalID: 812199703045558810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_1
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3050
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efec2e6bcddbb2d0800000000000000
+      internalID: -3261769639303254045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2103
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcec43b53ee64c460800000000000000
+      internalID: 7261050421994901197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_3
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2083
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555fd80abb1396ca0800000000000000
+      internalID: -6023228344709024427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_4
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2083
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd53ac2dccc952e0800000000000000
+      internalID: -2136451366621323852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_5
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2092
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55830fa3437993e70800000000000000
+      internalID: 9095467173034342485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_6
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2064
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbcb5c3014b17c30800000000000000
+      internalID: 4355460296469105660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2061
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c21b9c0413486d0800000000000000
+      internalID: -2989210098335667199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_8
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2044
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dcabf0ca3ab2cb0800000000000000
+      internalID: -4887633011186938601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_9
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1948
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67373bcef98c6f7a0800000000000000
+      internalID: -6343662435908226186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_10
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1955
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ff9d72d08fc760800000000000000
+      internalID: 7480339147624805066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1934
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390be1cea14bf9d70800000000000000
+      internalID: 9052151803761569939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1914
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea99b38639154df0800000000000000
+      internalID: -196723286791841050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_13
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1895
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da7cd18006df440800000000000000
+      internalID: 4971235151662525828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_14
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1838
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14768ed7a56eb1a70800000000000000
+      internalID: 8798879573332223809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_15
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1830
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e4e2e47cea2060800000000000000
+      internalID: 6929610963429942058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_16
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1783
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3b8cbcc8de9310800000000000000
+      internalID: 1413805706889083578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pitcher2_17
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1594
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4911a573c0f3acda0800000000000000
+      internalID: -5923853038151659116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pitcher2_0: 812199703045558810
+      pitcher2_1: -3261769639303254045
+      pitcher2_10: 7480339147624805066
+      pitcher2_11: 9052151803761569939
+      pitcher2_12: -196723286791841050
+      pitcher2_13: 4971235151662525828
+      pitcher2_14: 8798879573332223809
+      pitcher2_15: 6929610963429942058
+      pitcher2_16: 1413805706889083578
+      pitcher2_17: -5923853038151659116
+      pitcher2_2: 7261050421994901197
+      pitcher2_3: -6023228344709024427
+      pitcher2_4: -2136451366621323852
+      pitcher2_5: 9095467173034342485
+      pitcher2_6: 4355460296469105660
+      pitcher2_7: -2989210098335667199
+      pitcher2_8: -4887633011186938601
+      pitcher2_9: -6343662435908226186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

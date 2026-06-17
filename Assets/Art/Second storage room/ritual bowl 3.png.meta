@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 637c0c6b7d3b70a469884fca11ce18e9
+guid: f3f08efbc00bd954496275893c7ec2ec
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4334783836991956000
-    second: player_0
+      213: 2686354011051054294
+    second: ritual bowl 3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_0
+      name: ritual bowl 3_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1640
-        height: 2360
+        x: 957
+        y: 563
+        width: 2610
+        height: 2548
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 024a20edeee382c30800000000000000
-      internalID: 4334783836991956000
+      spriteID: 6d4d4a97db8d74520800000000000000
+      internalID: 2686354011051054294
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      player_0: 4334783836991956000
+      ritual bowl 3_0: 2686354011051054294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

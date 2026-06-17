@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 00a2a3b2fbbc6c94dad7bd76250763d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8065607172368989009
+    second: ritual bowl 2_0
+  - first:
+      213: 5298074533722652797
+    second: ritual bowl 2_1
+  - first:
+      213: 571906336268120488
+    second: ritual bowl 2_2
+  - first:
+      213: -4522118830603265348
+    second: ritual bowl 2_3
+  - first:
+      213: -1634017634512352528
+    second: ritual bowl 2_4
+  - first:
+      213: 1637670796635167758
+    second: ritual bowl 2_5
+  - first:
+      213: -2100317346034692572
+    second: ritual bowl 2_6
+  - first:
+      213: 5769532396108459539
+    second: ritual bowl 2_7
+  - first:
+      213: -2456951522013340880
+    second: ritual bowl 2_8
+  - first:
+      213: 928368275244139991
+    second: ritual bowl 2_9
+  - first:
+      213: -2784323192911416498
+    second: ritual bowl 2_10
+  - first:
+      213: 5514317509409400404
+    second: ritual bowl 2_11
+  - first:
+      213: -5737382865543492572
+    second: ritual bowl 2_12
+  - first:
+      213: 1751851731979642099
+    second: ritual bowl 2_13
+  - first:
+      213: 6956817701288391014
+    second: ritual bowl 2_14
+  - first:
+      213: -802014869385154770
+    second: ritual bowl 2_15
+  - first:
+      213: 7504766849000202543
+    second: ritual bowl 2_16
+  - first:
+      213: 4132693742186255989
+    second: ritual bowl 2_17
+  - first:
+      213: -8077328730331769535
+    second: ritual bowl 2_18
+  - first:
+      213: 4303852392269796112
+    second: ritual bowl 2_19
+  - first:
+      213: -5190861760453156565
+    second: ritual bowl 2_20
+  - first:
+      213: 7875642053885830823
+    second: ritual bowl 2_21
+  - first:
+      213: 9144547621674563633
+    second: ritual bowl 2_22
+  - first:
+      213: 3284964402459685236
+    second: ritual bowl 2_23
+  - first:
+      213: -8369323663921513266
+    second: ritual bowl 2_24
+  - first:
+      213: 274309112937199693
+    second: ritual bowl 2_25
+  - first:
+      213: 5033242726073255628
+    second: ritual bowl 2_26
+  - first:
+      213: 5351428801973243476
+    second: ritual bowl 2_27
+  - first:
+      213: -5378424069780528179
+    second: ritual bowl 2_28
+  - first:
+      213: -77023689134915670
+    second: ritual bowl 2_29
+  - first:
+      213: -4279927006313825496
+    second: ritual bowl 2_30
+  - first:
+      213: -924716389275837435
+    second: ritual bowl 2_31
+  - first:
+      213: -4417400938403323579
+    second: ritual bowl 2_32
+  - first:
+      213: -4080030345554466210
+    second: ritual bowl 2_33
+  - first:
+      213: -1699413312290292511
+    second: ritual bowl 2_34
+  - first:
+      213: 5914159433255729894
+    second: ritual bowl 2_35
+  - first:
+      213: -2267787630853168911
+    second: ritual bowl 2_36
+  - first:
+      213: -1872456387833123456
+    second: ritual bowl 2_37
+  - first:
+      213: 2333637725902993688
+    second: ritual bowl 2_38
+  - first:
+      213: 2269976574850008744
+    second: ritual bowl 2_39
+  - first:
+      213: -405213401757684326
+    second: ritual bowl 2_40
+  - first:
+      213: 4312497728085379376
+    second: ritual bowl 2_41
+  - first:
+      213: 2951418270010416056
+    second: ritual bowl 2_42
+  - first:
+      213: 3942872276186060408
+    second: ritual bowl 2_43
+  - first:
+      213: -3525404495969661852
+    second: ritual bowl 2_44
+  - first:
+      213: 4924336985033911771
+    second: ritual bowl 2_45
+  - first:
+      213: 8161557121308235140
+    second: ritual bowl 2_46
+  - first:
+      213: -142578025082307668
+    second: ritual bowl 2_47
+  - first:
+      213: -5755768748896800885
+    second: ritual bowl 2_48
+  - first:
+      213: -244422424827557929
+    second: ritual bowl 2_49
+  - first:
+      213: 6457448044152902791
+    second: ritual bowl 2_50
+  - first:
+      213: 6716770217297508667
+    second: ritual bowl 2_51
+  - first:
+      213: -2230363751258401087
+    second: ritual bowl 2_52
+  - first:
+      213: -6045989820151658392
+    second: ritual bowl 2_53
+  - first:
+      213: -6925498021220201026
+    second: ritual bowl 2_54
+  - first:
+      213: -3821905441745393366
+    second: ritual bowl 2_55
+  - first:
+      213: -9153125644879866112
+    second: ritual bowl 2_56
+  - first:
+      213: 8618494709077353056
+    second: ritual bowl 2_57
+  - first:
+      213: 1101395830655664067
+    second: ritual bowl 2_58
+  - first:
+      213: 796523298254663117
+    second: ritual bowl 2_59
+  - first:
+      213: 6519724427384126435
+    second: ritual bowl 2_60
+  - first:
+      213: 3604696227750416870
+    second: ritual bowl 2_61
+  - first:
+      213: 1426806379154714215
+    second: ritual bowl 2_62
+  - first:
+      213: 8978394148189021671
+    second: ritual bowl 2_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ritual bowl 2_0
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 2772
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b75e66dfaceef60800000000000000
+      internalID: 8065607172368989009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_1
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2776
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d700510d7ba868940800000000000000
+      internalID: 5298074533722652797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_2
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2778
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a17e0268c1dfe700800000000000000
+      internalID: 571906336268120488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_3
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2775
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba99cdf1e43e31c0800000000000000
+      internalID: -4522118830603265348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_4
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 2776
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faca2a6e9dc259e0800000000000000
+      internalID: -1634017634512352528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_5
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2776
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c587ca9ec2ab610800000000000000
+      internalID: 1637670796635167758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_6
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2778
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec202708c2ad2e0800000000000000
+      internalID: -2100317346034692572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_7
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2777
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e272e552f711050800000000000000
+      internalID: 5769532396108459539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_8
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2780
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1a04bb9727edd0800000000000000
+      internalID: -2456951522013340880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_9
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2780
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d54ba2170a32ec00800000000000000
+      internalID: 928368275244139991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_10
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2778
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4332aadec81c59d0800000000000000
+      internalID: -2784323192911416498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_11
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2781
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45660170f8ac68c40800000000000000
+      internalID: 5514317509409400404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_12
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 2778
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0ed68ea8b060b0800000000000000
+      internalID: -5737382865543492572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_13
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2781
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4acc75ed3df4810800000000000000
+      internalID: 1751851731979642099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_14
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2778
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661b17c27d49b8060800000000000000
+      internalID: 6956817701288391014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_15
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2780
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f67bdb9bbaed4f0800000000000000
+      internalID: -802014869385154770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_16
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 2776
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21e8ccefa9462860800000000000000
+      internalID: 7504766849000202543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_17
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2779
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576dd7400174a5930800000000000000
+      internalID: 4132693742186255989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_18
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 2777
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1459486b05097ef80800000000000000
+      internalID: -8077328730331769535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_19
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2778
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d4fea2fa5abb30800000000000000
+      internalID: 4303852392269796112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_20
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2774
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21e7023bba56f7b0800000000000000
+      internalID: -5190861760453156565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_21
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2772
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a62ef798b6eb4d60800000000000000
+      internalID: 7875642053885830823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_22
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 2772
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1383e8dac95f7ee70800000000000000
+      internalID: 9144547621674563633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_23
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2762
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b96438b9869d20800000000000000
+      internalID: 3284964402459685236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_24
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2764
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccffa168703adb80800000000000000
+      internalID: -8369323663921513266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_25
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2767
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4836435faa8ec300800000000000000
+      internalID: 274309112937199693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_26
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2771
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc64ae3979ba9d540800000000000000
+      internalID: 5033242726073255628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_27
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2770
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec86e6428144a40800000000000000
+      internalID: 5351428801973243476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_28
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2765
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3225dfdcffb55b0800000000000000
+      internalID: -5378424069780528179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_29
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2763
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb2d1ec5b5eeef0800000000000000
+      internalID: -77023689134915670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_30
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2767
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b30145015aa94c0800000000000000
+      internalID: -4279927006313825496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_31
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2760
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5b33e75fba23f0800000000000000
+      internalID: -924716389275837435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_32
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 2755
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5412efb304d32b2c0800000000000000
+      internalID: -4417400938403323579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_33
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2756
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a69648402d067c0800000000000000
+      internalID: -4080030345554466210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_34
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2759
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecfd5aa8987a68e0800000000000000
+      internalID: -1699413312290292511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_35
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2760
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eabb348ba0531250800000000000000
+      internalID: 5914159433255729894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_36
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2760
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e8fc3a233780e0800000000000000
+      internalID: -2267787630853168911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_37
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 2758
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dabc106d2b306e0800000000000000
+      internalID: -1872456387833123456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_38
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2755
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f5e6c52fb26020800000000000000
+      internalID: 2333637725902993688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_39
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2753
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a684600ba3908f10800000000000000
+      internalID: 2269976574850008744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_40
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 676
+        width: 2685
+        height: 2081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d610ade84606af0800000000000000
+      internalID: -405213401757684326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_41
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2749
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394539c5d119db30800000000000000
+      internalID: 4312497728085379376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_42
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 2752
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb919f774b85f820800000000000000
+      internalID: 2951418270010416056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_43
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 2749
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8765ec8e175e7b630800000000000000
+      internalID: 3942872276186060408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_44
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2340
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cc9201a4f331fc0800000000000000
+      internalID: -3525404495969661852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_45
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 700
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda34bc562c65440800000000000000
+      internalID: 4924336985033911771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_46
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 699
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48513a5c5fca34170800000000000000
+      internalID: 8161557121308235140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_47
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 701
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab3136aa06750ef0800000000000000
+      internalID: -142578025082307668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_48
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 703
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f26b871d66f10b0800000000000000
+      internalID: -5755768748896800885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_49
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 694
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d783018913ab9cf0800000000000000
+      internalID: -244422424827557929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_50
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 693
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784564b78c67d9950800000000000000
+      internalID: 6457448044152902791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_51
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 691
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39f0f7fce2c63d50800000000000000
+      internalID: 6716770217297508667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_52
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 690
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d5563cf72c01e0800000000000000
+      internalID: -2230363751258401087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_53
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 693
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8688b36aa44581ca0800000000000000
+      internalID: -6045989820151658392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_54
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 695
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdcf781e30b3ef90800000000000000
+      internalID: -6925498021220201026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_55
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2922a3004dd5fac0800000000000000
+      internalID: -3821905441745393366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_56
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 685
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007da68a8b099f080800000000000000
+      internalID: -9153125644879866112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_57
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 684
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062a321764b0b9770800000000000000
+      internalID: 8618494709077353056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_58
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 684
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfb35b2ca1f84f00800000000000000
+      internalID: 1101395830655664067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_59
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 684
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdaac738b1dd0b00800000000000000
+      internalID: 796523298254663117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_60
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 683
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfaafd2d6ba7a50800000000000000
+      internalID: 6519724427384126435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_61
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 683
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11142ee14760230800000000000000
+      internalID: 3604696227750416870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_62
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 681
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e27c0a7d80dc310800000000000000
+      internalID: 1426806379154714215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual bowl 2_63
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 677
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a04088e9a99c70800000000000000
+      internalID: 8978394148189021671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ritual bowl 2_0: 8065607172368989009
+      ritual bowl 2_1: 5298074533722652797
+      ritual bowl 2_10: -2784323192911416498
+      ritual bowl 2_11: 5514317509409400404
+      ritual bowl 2_12: -5737382865543492572
+      ritual bowl 2_13: 1751851731979642099
+      ritual bowl 2_14: 6956817701288391014
+      ritual bowl 2_15: -802014869385154770
+      ritual bowl 2_16: 7504766849000202543
+      ritual bowl 2_17: 4132693742186255989
+      ritual bowl 2_18: -8077328730331769535
+      ritual bowl 2_19: 4303852392269796112
+      ritual bowl 2_2: 571906336268120488
+      ritual bowl 2_20: -5190861760453156565
+      ritual bowl 2_21: 7875642053885830823
+      ritual bowl 2_22: 9144547621674563633
+      ritual bowl 2_23: 3284964402459685236
+      ritual bowl 2_24: -8369323663921513266
+      ritual bowl 2_25: 274309112937199693
+      ritual bowl 2_26: 5033242726073255628
+      ritual bowl 2_27: 5351428801973243476
+      ritual bowl 2_28: -5378424069780528179
+      ritual bowl 2_29: -77023689134915670
+      ritual bowl 2_3: -4522118830603265348
+      ritual bowl 2_30: -4279927006313825496
+      ritual bowl 2_31: -924716389275837435
+      ritual bowl 2_32: -4417400938403323579
+      ritual bowl 2_33: -4080030345554466210
+      ritual bowl 2_34: -1699413312290292511
+      ritual bowl 2_35: 5914159433255729894
+      ritual bowl 2_36: -2267787630853168911
+      ritual bowl 2_37: -1872456387833123456
+      ritual bowl 2_38: 2333637725902993688
+      ritual bowl 2_39: 2269976574850008744
+      ritual bowl 2_4: -1634017634512352528
+      ritual bowl 2_40: -405213401757684326
+      ritual bowl 2_41: 4312497728085379376
+      ritual bowl 2_42: 2951418270010416056
+      ritual bowl 2_43: 3942872276186060408
+      ritual bowl 2_44: -3525404495969661852
+      ritual bowl 2_45: 4924336985033911771
+      ritual bowl 2_46: 8161557121308235140
+      ritual bowl 2_47: -142578025082307668
+      ritual bowl 2_48: -5755768748896800885
+      ritual bowl 2_49: -244422424827557929
+      ritual bowl 2_5: 1637670796635167758
+      ritual bowl 2_50: 6457448044152902791
+      ritual bowl 2_51: 6716770217297508667
+      ritual bowl 2_52: -2230363751258401087
+      ritual bowl 2_53: -6045989820151658392
+      ritual bowl 2_54: -6925498021220201026
+      ritual bowl 2_55: -3821905441745393366
+      ritual bowl 2_56: -9153125644879866112
+      ritual bowl 2_57: 8618494709077353056
+      ritual bowl 2_58: 1101395830655664067
+      ritual bowl 2_59: 796523298254663117
+      ritual bowl 2_6: -2100317346034692572
+      ritual bowl 2_60: 6519724427384126435
+      ritual bowl 2_61: 3604696227750416870
+      ritual bowl 2_62: 1426806379154714215
+      ritual bowl 2_63: 8978394148189021671
+      ritual bowl 2_7: 5769532396108459539
+      ritual bowl 2_8: -2456951522013340880
+      ritual bowl 2_9: 928368275244139991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

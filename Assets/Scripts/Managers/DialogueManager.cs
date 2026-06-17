@@ -1,6 +1,5 @@
 using Ink.Runtime;
 using UnityEngine;
-using UnityEngine.InputSystem.LowLevel;
 public class DialogueManager : MonoBehaviour
 {
     //handles everythng related to dialogue, starting it, ending it, and progressing it.
@@ -42,12 +41,10 @@ public class DialogueManager : MonoBehaviour
         EventsManager.Instance.dialogueEvents.onUpdateChoiceIndex -= UpdateChoiceIndex;
         EventsManager.Instance.dialogueEvents.onUpdateInkDialogueVariable -= UpdateInkDialogueVariable;
     }
-
     private void UpdateInkDialogueVariable(string name, Ink.Runtime.Object value)
     {
         inkDialogueVariables.UpdateVariableState(name, value);
     }
-
 
     private void UpdateChoiceIndex(int choiceIndex)
     {
