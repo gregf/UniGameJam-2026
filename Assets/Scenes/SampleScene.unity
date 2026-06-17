@@ -13659,13 +13659,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2304266204063585741, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8922328891513336043, guid: 5b34da8ca37ae3d45af0e17a9ace9be5, type: 3}
+    - target: {fileID: 2304266204063585741, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.09169
+      value: -3.924
       objectReference: {fileID: 0}
     - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.26587892
+      value: 0.742
       objectReference: {fileID: 0}
     - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: m_LocalPosition.z
@@ -13703,9 +13711,37 @@ PrefabInstance:
       propertyPath: m_Name
       value: Npc
       objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5020680634494386920, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8379041674085256647, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: dialogueKnotName
-      value: Soldier
+      value: Councelor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
