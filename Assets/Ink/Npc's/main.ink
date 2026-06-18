@@ -2,3 +2,4 @@
 
 INCLUDE Councelor.ink
 INCLUDE StorageRoom1.ink
+INCLUDE Pedastal.ink

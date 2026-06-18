@@ -51,11 +51,9 @@ public class DialoguePanelUI : MonoBehaviour
 
     private void DisplayDialogue(string dialogueLine, List<Choice> dialogueChoices)
     {
-        //call text animations with the string
-        EndCheck(dialogueLine);
-        
         dialogueText.text = dialogueLine;
 
+        EndCheck(dialogueText.text);
         //check if there are more choices than we can support
         if (dialogueChoices.Count > choiceButtons.Length)
         {
@@ -100,8 +98,10 @@ public class DialoguePanelUI : MonoBehaviour
     void EndCheck(string stringArray)
     {
         if(i <= stringArray.Length - 1)
-        dialogueText.text = stringArray;
-        StartCoroutine(TextVisible());
+        {
+            dialogueText.text = stringArray;
+            StartCoroutine(TextVisible());
+        }
     }
     private IEnumerator TextVisible()
     {

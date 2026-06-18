@@ -9142,7 +9142,7 @@ MonoBehaviour:
   - {fileID: 1447709716}
   - {fileID: 897759692}
   - {fileID: 2092525692}
-  timeBtwnChars: 0.1
+  timeBtwnChars: 0.01
   timeBtwnWords: 1
 --- !u!1 &1105074353
 GameObject:
@@ -13963,7 +13963,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8379041674085256647, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: dialogueKnotName
-      value: Councelor
+      value: Pedastal
       objectReference: {fileID: 0}
     - target: {fileID: 8808578648275810514, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: m_Radius
