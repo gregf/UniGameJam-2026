@@ -13,7 +13,6 @@ public class InkExternalFunctions
     public void Unbind(Story story)
     {
         story.UnbindExternalFunction("StartDay");
-        story.UnbindExternalFunction("Reminder");
         story.UnbindExternalFunction("FinishDay");
         story.UnbindExternalFunction("WhatWords");
     }

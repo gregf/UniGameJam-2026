@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e325b98341a97d3448b2b893cd634e3f, type: 3}
+  m_Name: CollectItemsQuest
+  m_EditorClassIdentifier: Assembly-CSharp::QuestInfoSO
+  <id>k__BackingField: CollectItemsQuest
+  displayName: Collect The Items
+  questPrerequisites: []
+  questStepPrefabs:
+  - {fileID: 6356878500268702735, guid: d04791b12ade1914e8a24df4518c3b3d, type: 3}
+  youlive: 1

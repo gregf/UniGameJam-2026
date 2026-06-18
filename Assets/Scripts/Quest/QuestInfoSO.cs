@@ -9,17 +9,14 @@ public class QuestInfoSO : ScriptableObject
 
     [Header("General")]
     public string displayName;
-
-    [Header("Requirements")]
-    public int levelRequirement;
     public QuestInfoSO[] questPrerequisites;
 
     [Header("Steps")]
     public GameObject[] questStepPrefabs;
 
+
     [Header("Rewards")]
-    public int goldReward;
-    public int experienceReward;
+    public int youlive;
 
     // ensure the id is always the name of the Scriptable Object asset
     private void OnValidate()

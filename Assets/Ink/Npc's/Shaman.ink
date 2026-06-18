@@ -19,6 +19,7 @@ Do you want to start the quest?
     ~FinishDay(CollectItemsQuestId)
     i'll do what i can with these
     no promises
+    ->END
 * [No]
     then go find the items
 ->END

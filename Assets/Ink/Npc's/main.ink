@@ -1,4 +1,3 @@
-
 EXTERNAL StartDay(string questId)
 EXTERNAL FinishDay(string questId)
 EXTERNAL WhatWords(string questId)
