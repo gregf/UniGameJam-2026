@@ -93,10 +93,7 @@ public class DialoguePanelUI : MonoBehaviour
     {
         dialogueText.text = "";
     }
-
-
-
-
+    
     //text animations
     void EndCheck(string stringArray)
     {
