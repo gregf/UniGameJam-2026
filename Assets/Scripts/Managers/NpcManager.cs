@@ -58,6 +58,5 @@ public class Npc : MonoBehaviour
             PlayerIsNear = false;
             IconSprite.SetActive(false);
         }
-    }
-    
+    } 
 }

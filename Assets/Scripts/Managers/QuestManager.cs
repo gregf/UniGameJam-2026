@@ -10,7 +10,7 @@ public class QuestManager : MonoBehaviour
     private Dictionary<string, Quest> questMap;
 
     // quest start requirements
-    private int currentPlayerLevel;
+    private int currentItems;
 
     private void Awake()
     {
@@ -55,9 +55,9 @@ public class QuestManager : MonoBehaviour
         EventsManager.Instance.questEvents.QuestStateChange(quest);
     }
 
-    private void PlayerLevelChange(int level)
+    private void PlayerLevelChange(int Items)
     {
-        currentPlayerLevel = level;
+        currentItems = Items;
     }
 
     private bool CheckRequirementsMet(Quest quest)
@@ -66,7 +66,7 @@ public class QuestManager : MonoBehaviour
         bool meetsRequirements = true;
 
         // check player level requirements
-        if (currentPlayerLevel < quest.info.levelRequirement)
+        if (currentItems != 5)
         {
             meetsRequirements = false;
         }

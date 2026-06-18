@@ -2813,6 +2813,79 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1001 &402369868
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2304266204063585741, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.014
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.612
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333377875543035072, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427359166861566906, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_Name
+      value: Npc
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379041674085256647, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: dialogueKnotName
+      value: Pedastal
+      objectReference: {fileID: 0}
+    - target: {fileID: 8808578648275810514, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_Radius
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 8808578648275810514, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.54
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
 --- !u!1 &406002467
 GameObject:
   m_ObjectHideFlags: 0
@@ -3746,7 +3819,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.54, y: 0, z: -10}
+  m_LocalPosition: {x: -10.49, y: -0.23, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4131,7 +4204,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -4306,14 +4379,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 1302723820812287101, guid: 68baf4b5ebb86344b80be4950bf989bd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4980,7 +5053,7 @@ Transform:
   m_GameObject: {fileID: 628884136}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.54, y: 0, z: -10}
+  m_LocalPosition: {x: -10.49, y: -0.23, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5001,7 +5074,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &636596167
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6672,7 +6745,7 @@ Transform:
   m_GameObject: {fileID: 826453672}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.54, y: 0, z: 0}
+  m_LocalPosition: {x: -10.49, y: -0.23, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8878,8 +8951,8 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_VertexColorAlwaysGammaSpace: 1
+  m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -13963,7 +14036,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8379041674085256647, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: dialogueKnotName
-      value: Pedastal
+      value: Councelor
       objectReference: {fileID: 0}
     - target: {fileID: 8808578648275810514, guid: a69a8b86c2c56674c820c663a6dcc678, type: 3}
       propertyPath: m_Radius
@@ -16169,3 +16242,4 @@ SceneRoots:
   - {fileID: 1076419567}
   - {fileID: 354601842}
   - {fileID: 406002470}
+  - {fileID: 402369868}
