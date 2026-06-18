@@ -51,7 +51,9 @@ public class DialoguePanelUI : MonoBehaviour
 
     private void DisplayDialogue(string dialogueLine, List<Choice> dialogueChoices)
     {
+        //call text animations with the string
         EndCheck(dialogueLine);
+        
         dialogueText.text = dialogueLine;
 
         //check if there are more choices than we can support
@@ -93,7 +95,7 @@ public class DialoguePanelUI : MonoBehaviour
     {
         dialogueText.text = "";
     }
-    
+
     //text animations
     void EndCheck(string stringArray)
     {
