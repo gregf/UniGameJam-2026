@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Collections;
 using Ink.Runtime;
 using TMPro;
 using UnityEngine;
@@ -9,6 +10,9 @@ public class DialoguePanelUI : MonoBehaviour
     [SerializeField] private GameObject contentParent;
     [SerializeField] private TextMeshProUGUI dialogueText;
     [SerializeField] private DialogueChoiceButton[] choiceButtons;
+    [SerializeField] float timeBtwnChars;
+    [SerializeField] float timeBtwnWords;
+    int i = 0;
 
 
     private void OnEnable()
@@ -47,6 +51,7 @@ public class DialoguePanelUI : MonoBehaviour
 
     private void DisplayDialogue(string dialogueLine, List<Choice> dialogueChoices)
     {
+        EndCheck(dialogueLine);
         dialogueText.text = dialogueLine;
 
         //check if there are more choices than we can support
@@ -87,5 +92,39 @@ public class DialoguePanelUI : MonoBehaviour
     private void ResetPanel()
     {
         dialogueText.text = "";
+    }
+
+
+
+
+    //text animations
+    void EndCheck(string stringArray)
+    {
+        if(i <= stringArray.Length - 1)
+        dialogueText.text = stringArray;
+        StartCoroutine(TextVisible());
+    }
+    private IEnumerator TextVisible()
+    {
+        dialogueText.ForceMeshUpdate();
+        int totalVisibleCharacters = dialogueText.textInfo.characterCount;
+        int counter = 0;
+
+        while (true)
+        {
+            int visibleCount = counter % (totalVisibleCharacters + 1);
+            dialogueText.maxVisibleCharacters = visibleCount;
+
+            if(visibleCount >= totalVisibleCharacters)
+            {
+                i += 1;
+                Invoke("EndCheck", timeBtwnWords);
+                break;
+            }
+
+            counter += 1;
+
+            yield return new WaitForSeconds(timeBtwnChars);
+        }
     }
 }

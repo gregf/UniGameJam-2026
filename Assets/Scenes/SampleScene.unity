@@ -4132,8 +4132,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -6718,7 +6718,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f88960262996884dab8aa2d88b75988, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovementController
-  moveSpeed: 5
+  moveSpeed: 4
   animator: {fileID: 345602548}
 --- !u!70 &826453677
 CapsuleCollider2D:
@@ -9142,6 +9142,8 @@ MonoBehaviour:
   - {fileID: 1447709716}
   - {fileID: 897759692}
   - {fileID: 2092525692}
+  timeBtwnChars: 0.1
+  timeBtwnWords: 1
 --- !u!1 &1105074353
 GameObject:
   m_ObjectHideFlags: 0
